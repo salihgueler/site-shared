@@ -213,6 +213,6 @@ allows the originating source file to contain multiple versions of the same clas
 [markdown_with_code_excerpts.rb]: src/_plugins/markdown_with_code_excerpts.rb
 [processing instruction]: https://en.wikipedia.org/wiki/Processing_Instruction
 [regular expression]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
-[Should I write a test?]: examples#should-i-write-a-test
+[Should I write a test?]: examples.md#should-i-write-a-test-for-my-example-code
 [src/_guides/language/effective-dart/design.md]: https://github.com/dart-lang/site-www/blob/main/src/_guides/language/effective-dart/design.md?raw=1
 [src/docs/development/ui/interactive.md]: https://github.com/flutter/website/blob/main/src/docs/development/ui/interactive.md?raw=1
